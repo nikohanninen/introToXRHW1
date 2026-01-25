@@ -1,6 +1,5 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
-using static UnityEditorInternal.VersionControl.ListControl;
 
 public class MovePlayer : MonoBehaviour
 {
